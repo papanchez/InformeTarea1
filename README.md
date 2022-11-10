@@ -4,7 +4,8 @@
 1.- Objetivos.
 
 *Aprender notación cinetífica y de ingeniería con la meta de no trabajar con número smuy grandes o muy pequeños.
-*Aprender sobre las distintas conversiones métricas  que  existen, pues es necesario en determinados casos.
+*Aprender sobre las distintas conversiones métricas  que  existen.
+*Identificar las unidades de medidas existentes.
 *Reconocer el funcionamiento de un circuito, ya sea en la parte teórica o en la funcional, además de reconocer e identificar cada uno de sus componen y como estos se comportan al unirse o separarse.
 
 OBJETIVOS ESPECÍFICOS
@@ -53,6 +54,7 @@ Apredender a manerjar de manera correcta la notación científica y  resolver ej
 
 5.-Conclusiones
 
+En conclusió, durante la realización de este informe perteneciente a la tarea 1, se aprendió y comprendió  la manera correcta de usar  la notación científca y la diferencia que existe entre la notación de ingeniería, además se aprendio de manera correcta  de usar las unidades de medida del SI, los prefijos existtentes y el método para  las conversiones métricas. Se aprendió  como es el funcionamientos de  de un circuito desde la parte atómica hasta los diferentes materiales que se que se suelen usar  para su correcto funcioamiento. Finalemente se  entendió como se realizan ejercicios relacionados a estos temas por que  se concluye  que la realización de esta tarea fue un éxito.
 
 6.- Bibliografía
 
