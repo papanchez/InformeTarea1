@@ -3,6 +3,16 @@
 
 1.- Objetivos.
 
+*Aprender notación cinetífica y de ingeniería con la meta de no trabajar con número smuy grandes o muy pequeños.
+*Aprender sobre las distintas conversiones métricas  que  existen, pues es necesario en determinados casos.
+*Reconocer el funcionamiento de un circuito, ya sea en la parte teórica o en la funcional, además de reconocer e identificar cada uno de sus componen y como estos se comportan al unirse o separarse.
+
+OBJETIVOS ESPECÍFICOS
+
+Apredender a manerjar de manera correcta la notación científica y  resolver ejercicios utilizandola.
+*Estudiar y aprender los concept  de la estructura atómica, carga, electrica,  y como estos se calculan.
+*Identificar los componentes de un circuito, ya sea los de protección, resistencia u otros tipos.
+
 
 2.- Marco Teórico.
 
