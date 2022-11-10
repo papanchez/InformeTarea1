@@ -51,10 +51,11 @@ Apredender a manerjar de manera correcta la notación científica y  resolver ej
 
 4.- Video
 
+https://youtu.be/nTHD9VbRXFU
 
 5.-Conclusiones
 
 En conclusió, durante la realización de este informe perteneciente a la tarea 1, se aprendió y comprendió  la manera correcta de usar  la notación científca y la diferencia que existe entre la notación de ingeniería, además se aprendio de manera correcta  de usar las unidades de medida del SI, los prefijos existtentes y el método para  las conversiones métricas. Se aprendió  como es el funcionamientos de  de un circuito desde la parte atómica hasta los diferentes materiales que se que se suelen usar  para su correcto funcioamiento. Finalemente se  entendió como se realizan ejercicios relacionados a estos temas por que  se concluye  que la realización de esta tarea fue un éxito.
 
 6.- Bibliografía
-
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
